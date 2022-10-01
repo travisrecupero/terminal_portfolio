@@ -27,9 +27,10 @@ async function open_terminal(){
   await delay(1500);
   createText("You can run several commands:");
  
-  createCode("about me", "Who am I and what do I do.");
+  createCode("about me", "Who am I and what I do.");
   createCode("all", "See all commands.");
   createCode("social -a", "All my social networks.");
+  createCode("clear", "Clear terminal window.");
 
   await delay(500);
   new_line();
