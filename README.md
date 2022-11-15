@@ -1,2 +1,6 @@
 # terminal_portfolio
-terminal style portfolio website
+
+Terminal style portfolio website
+
+## Note
+Repository is mainly to test Github Actions
